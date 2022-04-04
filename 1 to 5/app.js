@@ -1,4 +1,4 @@
-/* //Solution-1
+//Solution-1
 document.write('hello,World!');
 //alert('hello,World!');
 console.log('hello,World!');
@@ -21,7 +21,7 @@ const baseNum = parseFloat(prompt('enter base number'));
 const heightNum = parseFloat(prompt('enter height number'));
 const triangleAre = (baseNum * heightNum ) / 2;
 console.log(triangleAre); 
-*/
+
 
 //Solution-5
 let x = parseInt(prompt('enter the first number'));
